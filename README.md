@@ -36,8 +36,9 @@ Esta herramienta personalizada permite obtener una lista con un diccionario de l
 **Herramienta 4: descripcionLibro**
 
 Esta herramienta de terceros permite obtener la descripción de un libro a través de una solicitud al API de Google Books. La función obtiene la descripción en base al libro.
-
+```
 https://www.googleapis.com/books/v1/volumes?q=" + titulo + "&key=" + googlecloud_api_key
+```
 
 **Herramienta 5: resenasLibro**
 
