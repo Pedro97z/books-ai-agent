@@ -1,0 +1,7 @@
+pymongo==4.6.2
+langchain
+langchain_openai
+langchain-core
+langchain-community
+langchain-tavily
+langgraph
